@@ -1,0 +1,1 @@
+{"id":"5f58ca35-1753-4d7f-a423-03a1d0efab94","name":"Task-taskform.frm","model":{"taskName":"Task","processId":"CarManufacturing.CarFix","properties":[],"formModelType":"org.kie.workbench.common.forms.jbpm.model.authoring.task.TaskFormModel"},"fields":[],"layoutTemplate":{"version":2,"style":"FLUID","layoutProperties":{},"rows":[]}}
